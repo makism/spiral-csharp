@@ -60,6 +60,7 @@
     <Compile Include="ga\Topology\Grid3d.cs" />
     <Compile Include="ga\Topology\Line.cs" />
     <Compile Include="ga\Genome\NaturalNumberGenome.cs" />
+    <Compile Include="nn\Activation.cs" />
     <Compile Include="nn\layer\BiasLayer.cs" />
     <Compile Include="nn\layer\Grid.cs" />
     <Compile Include="nn\layer\Layer.cs" />

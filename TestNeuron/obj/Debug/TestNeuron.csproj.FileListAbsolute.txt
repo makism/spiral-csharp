@@ -1,0 +1,7 @@
+C:\Users\makism\Documents\Visual Studio 2008\Projects\Spiral\TestNeuron\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\makism\Documents\Visual Studio 2008\Projects\Spiral\TestNeuron\bin\Debug\TestNeuron.exe
+C:\Users\makism\Documents\Visual Studio 2008\Projects\Spiral\TestNeuron\bin\Debug\TestNeuron.pdb
+C:\Users\makism\Documents\Visual Studio 2008\Projects\Spiral\TestNeuron\bin\Debug\Spiral.dll
+C:\Users\makism\Documents\Visual Studio 2008\Projects\Spiral\TestNeuron\bin\Debug\Spiral.pdb
+C:\Users\makism\Documents\Visual Studio 2008\Projects\Spiral\TestNeuron\obj\Debug\TestNeuron.exe
+C:\Users\makism\Documents\Visual Studio 2008\Projects\Spiral\TestNeuron\obj\Debug\TestNeuron.pdb
